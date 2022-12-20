@@ -1,3 +1,4 @@
+![Logo-nav](https://s3.ap-south-1.amazonaws.com/kalvi-education.github.io/front-end-web-development/Kalvium-Logo.png)
 
 ## Learning Goals:
 1. The prime objective of this lab is to understand how CRUD (create read update delete) operations can be achieved
