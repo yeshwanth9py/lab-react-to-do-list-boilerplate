@@ -37,7 +37,7 @@ So, with a simple to-do-list app, we can achieve all the `CRUD` operations.
    **Note:** This lab is not focussing much on the styling part -- but feel free to add styles to your project.
    If you want - you can even mimic the design as shown below:
    
- ![]()
+ ![](https://s3.ap-south-1.amazonaws.com/kalvi-education.github.io/front-end-web-development/todo.png)
    
 
 ### Create:
@@ -47,6 +47,8 @@ So, with a simple to-do-list app, we can achieve all the `CRUD` operations.
 ### Update:
 
 ![](https://s3.ap-south-1.amazonaws.com/kalvi-education.github.io/front-end-web-development/update-react-todo.gif)
+
+For the update functionality - you can even try creating a button for it. (Upon clicking the button, you should be able to edit the item.)
 
 ### Delete:
 
