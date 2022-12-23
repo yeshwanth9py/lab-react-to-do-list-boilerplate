@@ -33,13 +33,23 @@ So, with a simple to-do-list app, we can achieve all the `CRUD` operations.
 ### Steps to follow:
 
 1. Setup the project by using the following command ~ `npx create-react-app kalvium-pronote` .
-2. Follow the video given below - in order to get an idea of how the app should work. 
+2. Follow each segment given below - in order to get an idea of how the app should work. 
    **Note:** This lab is not focussing much on the styling part -- but feel free to add styles to your project.
-   If you want - you can even mimic the design shown in the given video as well.
+   If you want - you can even mimic the design as shown below:
+   
+ ![]()
    
 
-[ <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/52f4b4c42a9f4f7c8e68b1c5f75f2798-with-play.gif">](https://www.loom.com/share/52f4b4c42a9f4f7c8e68b1c5f75f2798)
+### Create:
 
-You can also download this video by [clicking here](https://s3.ap-south-1.amazonaws.com/kalvi-education.github.io/front-end-web-development/Demo+for+the+lab.mov)
+![](https://s3.ap-south-1.amazonaws.com/kalvi-education.github.io/front-end-web-development/add-react-todo.gif)
+
+### Update:
+
+![](https://s3.ap-south-1.amazonaws.com/kalvi-education.github.io/front-end-web-development/update-react-todo.gif)
+
+### Delete:
+
+![](https://s3.ap-south-1.amazonaws.com/kalvi-education.github.io/front-end-web-development/delete-react-todo.gif)
 
 
